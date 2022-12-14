@@ -31,7 +31,7 @@
        <img width="482" alt="Screen Shot 2021-06-30 at 20 26 29" src="assets/screenshots/matches_today.png">
     </td>
     <td>
-       <img width="482" alt="Screen Shot 2021-06-30 at 20 26 29" src="assets/screenshots/lineups.png">
+       <img width="482" alt="Screen Shot 2021-06-30 at 20 26 29" src="assets/screenshots/Lineups.png">
     </td>
     <td>
        <img width="482" alt="Screen Shot 2021-06-30 at 20 26 29" src="assets/screenshots/standings.png">

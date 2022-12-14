@@ -13,16 +13,31 @@
 
 <table style="width:100%">
   <tr>
-    <th>Home Screen</th>
-    <th>Fixtures Screen</th>
-    <th>Teams Screen</th>
+    <th>Home Page</th>
+    <th>Matches Today</th>
+    <th>Lineups</th>
+    <th>Standings</th>
+    <th>Fixtures</th>
+    <th>Teams</th>
+    <th>Game Info</th>
+    <th>Fixture</th>
+    <th>Teams Players</th>
   </tr>
   <tr>
     <td>
        <img width="482" alt="Screen Shot 2021-06-30 at 20 26 29" src="assets/screenshots/HomePage.jpg">
     </td>
     <td>
-      <img width="482" alt="Screen Shot 2021-06-30 at 20 26 18" src="assets/screenshots/Matches.jpg">
+       <img width="482" alt="Screen Shot 2021-06-30 at 20 26 29" src="assets/screenshots/matches_today.png">
+    </td>
+    <td>
+       <img width="482" alt="Screen Shot 2021-06-30 at 20 26 29" src="assets/screenshots/lineups.png">
+    </td>
+    <td>
+       <img width="482" alt="Screen Shot 2021-06-30 at 20 26 29" src="assets/screenshots/standings.png">
+    </td>
+    <td>
+      <img width="482" alt="Screen Shot 2021-06-30 at 20 26 18" src="assets/screenshots/Matches.png">
     </td>    
     <td>
       <img width="482" alt="Screen Shot 2021-06-30 at 20 26 18" src="assets/screenshots/Teams.jpg">
